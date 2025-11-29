@@ -1,0 +1,1 @@
+var t=[{key:"menu.home",path:"/"},{key:"menu.about",path:"/about"},{key:"menu.works",path:"/works"},{key:"menu.contact",path:"/contact"}],e=[{key:"facebook",path:"https://web.facebook.com/reda2do/"},{key:"twitter",path:"https://x.com/Reda2do"},{key:"linkedin",path:"https://www.linkedin.com/in/reda2do/"}];export{t as a,e as b};

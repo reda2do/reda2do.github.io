@@ -1,0 +1,409 @@
+{
+    "metas": {
+        "title": {
+            "home": "Reda Bensaad - CV/Portfolio/Personnel",
+            "about": "À propos - Reda Bensaad",
+            "works": "Portefeuille - Reda Bensaad",
+            "contact": "Contact - Reda Bensaad",
+            "p404": "Page introuvable - Reda CV",
+            "projects": {
+                "ao": "Algérie Office - Portfolio Reda Bensaad",
+                "bacola": "Bacola Centre d'Achat - Portfolio Reda Bensaad",
+                "cm2": "Comture.MSO 2 - Portfolio Reda Bensaad",
+                "gostore": "GoStore Electronics - Portfolio Reda Bensaad",
+                "orup": "Orup Assurances - Portfolio Reda Bensaad",
+                "rinitec": "Rinitec SSII - Portfolio Reda Bensaad",
+                "fmao": "Algérie Office Film Maker - Portfolio Reda Bensaad",
+                "fmrinitec": "Rinitec SSII Film Maker - Portfolio Reda Bensaad",
+                "migros": "Migros Transformation - Portfolio Reda Bensaad",
+                "polaris": "Système Polaris - Portfolio Reda Bensaad",
+                "switcher": "Switcher - Portfolio Reda Bensaad",
+                "asvg": "Macromiss SVG Animation - Portfolio Reda Bensaad"
+            }
+        },
+        "description": {
+            "home": "Développeur full stack avec une expertise en java. Adepte de l'agilité et du clean code, je m'intéresse aux sujets complexes et challengeants.",
+            "about": "Plus de 10 ans d'expérience pratique dans la conception, le développement, les tests, la maintenance et le débogage de logiciels.",
+            "works": "Un développeur de logiciels axé sur les résultats, centré sur le client, articulé et analytique.",
+            "contact": "Disponible pour des missions freelance. Veuillez remplir le formulaire de contact ci-joint; vous serez contacté par e-mail sous 24h.",
+            "p404": "Vous aimeriez peut-être accéder à notre page d'accueil ?",
+            "projects": {
+                "ao": "Une solution marketplace tout-en-un en 3 versions linguistiques, Mai 2021.",
+                "bacola": "Exemple de réalisation d'une application e-commerce, nous examinerons la version 16 d'Angular, Oct 2022.",
+                "cm2": "Système de facturation pour auto-entrepreneur et TPE/PME, Mars 2018.",
+                "gostore": "Exemple de réalisation d'une application e-commerce conçue avec Angular 17, NodeJS et MySQL, Avr 2023.",
+                "orup": "Site web conçu sur mesure pour une société de courtage en assurances et services financiers, Nov 2019.",
+                "rinitec": "Un site web technique conçu sur mesure pour une agence de services informatiques aux entreprises, Sep 2019.",
+                "fmao": "Vidéos promotionnelles servant à commercialiser, faire la publicité et promouvoir une plateforme de vente en ligne, Avr 2021.",
+                "fmrinitec": "Vidéos promotionnelles utilisées pour présenter une agence de services informatiques aux entreprises, Oct 2019.",
+                "migros": "Site de commerce alimentaire electronique pour les magasins Migros en Turquie, Juil 2023.",
+                "polaris": "Portail d'assurance pour les conducteurs de motos Polaris, destiné aux professionnels et aux particuliers, Fev 2022.",
+                "switcher": "Site web de commerce électronique pour les textiles de la société Switcher en Suisse, Jan 2024.",
+                "asvg": "Animations SVG pour le compte Macromiss utilisées dans l'interface du logiciel pour créer des graphismes dynamiques et attrayants, Aou 2023."
+            }
+        }
+    },
+    "component": {
+        "layout": {
+            "drawer": {
+                "menu": {
+                    "home": "accueil",
+                    "about": "à propos",
+                    "works": "travaux",
+                    "contact": "contact"
+                },
+                "contacts": {
+                    "email": "E-mail:",
+                    "phone": "Téléphone:"
+                }
+            },
+            "footer": {
+                "title": "Multi compétences, passionné par l'informatique et les nouvelles technologies depuis toujours.",
+                "copyright": "© 2025. Conçu avec ❤️ par Angular 20.",
+                "notices": {
+                    "n1": "“ Reda a apporté une vraie valeur ajoutée avec une architecture claire, performante et maintenable. Son rôle fut déterminant dans le succès du projet. ”",
+                    "n2": "“ Reda a personnalisé le site selon les besoins du client et assuré une maintenance optimisée. Son intervention garantit stabilité et évolutivité. ”",
+                    "n3": "“ Reda s'est distingué par sa collaboration efficace et un backend sécurisé, clair et maintenable. Son travail a été essentiel à la réussite du projet. ”"
+                }
+            }
+        },
+        "home": {
+            "welcome": "Développeur Full Stack Java, Spring Boot, Angular",
+            "stacks": {
+                "title": "Bonne compréhension du cycle de vie du développement logiciel et des méthodologies agiles 🔥",
+                "technos": {
+                    "skills": "Compétences linguistiques",
+                    "bdd": "Base de données",
+                    "scripts": "Scénarios (Scripts)",
+                    "website": "Conception de sites Web",
+                    "tools": "Outils tiers",
+                    "general": "Compétences générales"
+                },
+                "general": {
+                    "strong": "Solides compétences en communication pour collaborer avec les détenteurs de la pile.",
+                    "deliver": "Compétence en gestion du temps pour livrer la tâche à temps et avec une qualité élevée."
+                }
+            },
+            "qualities": {
+                "titles": {
+                    "software": "Logiciel spécifique",
+                    "website": "Site web sur mesure",
+                    "uxui": "UX/UI designes",
+                    "marketing": "Webmarketing"
+                },
+                "descriptions": {
+                    "software": "Parce qu'une fonctionnalité intuitive permet une expérience significative.",
+                    "website": "Pour créer l'émotion chaque détail compte.",
+                    "uxui": "Parce qu'une grande marque est un fondement de chaque expérience.",
+                    "marketing": "Pour des histoires qui se racontent, se partagent."
+                }
+            }
+        },
+        "about": {
+            "bio": {
+                "title": "Je suis Reda Bensaad ✌️ Développeur Freelance.",
+                "parag": {
+                    "short": {
+                        "text1": "Développeur full stack avec une expertise en java. Adepte de l'agilité et du clean code, je m'intéresse aux",
+                        "text2": "sujets complexes et challengeants,",
+                        "text3": "face au métier je propose des stratégies efficaces et conseils personnalisés à son besoin.",
+                        "text4": "Plus de 10 ans d'expérience pratique dans la conception, le développement, les tests, la maintenance et le débogage de logiciels."
+                    },
+                    "long": {
+                        "text1": "Intéressée par l'informatique, plus précisément par la programmation, j'ai eu l'opportunité, après l'obtention de mon diplôme d'ingénieur en informatique de travailler sur plusieurs projets intéressants, certains de ces projets étaient",
+                        "text2": "dirigés à distance",
+                        "text3": "sans que les contraintes du",
+                        "text4": "développement offshore",
+                        "text5": "n'affectent le bon déroulement du travail.",
+                        "text6": "Architecte logiciel, chef technique, développement de logiciels, conception de logiciels, conception de bases de données, conception de logique métier, ingénierie logicielle."
+                    }
+                },
+                "link": {
+                    "short": "courte bio",
+                    "long": "longue bio"
+                }
+            },
+            "skills": {
+                "spring": "Maîtrise de la plateforme Java EE avec un ensemble de compétences techniques solides qui comprend une expertise en Java (8/11/17).",
+                "angular": "Bonne connaissance et expérience du framework Angular et de l'architecture des microservices.",
+                "postgre": "Compréhension du fonctionnement des bases de données ORACLE, SQL et Elasticsearch.",
+                "azure": "J'ai travaillé avec Azure, AWS et Docker pour le déploiement et la gestion."
+            },
+            "forums": {
+                "training": "Études et formation",
+                "diploma": "Ingénieur d'état en informatique",
+                "facs": {
+                    "t1": "Faculté des sciences de l'ingénierie, Institut de l'informatique",
+                    "t2": "Université Djillali Liabès de Sidi Bel-Abbès",
+                    "t3": "2001 - 2006"
+                }
+            }
+        },
+        "works": {
+            "connect": {
+                "header1": "Vous avez un projet ?",
+                "header2": "Envoyez-moi un message et discutons-en 👋"
+            }
+        },
+        "contact": {
+            "messager": {
+                "title": "Pour toute question ou simplement pour me saluer, n'hésitez pas à me contacter 👋",
+                "infos": {
+                    "contact": "Coordonnées :",
+                    "address": "Adresse :",
+                    "hours": "Heures d'ouverture :",
+                    "email": "E-mail:",
+                    "phone": "Téléphone:",
+                    "days": "Dimanche - Jeudi"
+                },
+                "form": {
+                    "name": "Votre nom",
+                    "email": "Votre courriel",
+                    "phone": "Votre téléphone",
+                    "company": "Entreprise",
+                    "type": "Je suis intéressé par...",
+                    "budget": "Budget",
+                    "title": "Titre",
+                    "message": "Message",
+                    "submit": "Envoyer"
+                },
+                "type": {
+                    "software": "Développement logiciel",
+                    "website": "Création de site web",
+                    "uxui": "UX/UI conception",
+                    "marketing": "Conseils webmarketing"
+                },
+                "budget": {
+                    "100": "€0 - €100",
+                    "1000": "€100 - €1000",
+                    "5000": "€1000 - €5000"
+                },
+                "errors": {
+                    "required": "doit être rempli(e)",
+                    "length": "doit contenir au moin {{ length }} caractères",
+                    "invalid": "est invalide !"
+                },
+                "messages": {
+                    "success": {
+                        "summary": "Message envoyé avec succès !",
+                        "detail": "Merci pour votre message. Il a bien été envoyé."
+                    },
+                    "error": {
+                        "summary": "Oups, impossible d'envoyer !",
+                        "detail": "Désolé, une erreur inattendue s'est produite. Veuillez réessayer dans quelques instants."
+                    }
+                }
+            }
+        }
+    },
+    "pages": {
+        "p404": {
+            "title": "Page introuvable 😿",
+            "message": "Peut-être aimeriez-vous accéder à ma page d'accueil ?",
+            "link": "Retour à l'accueil"
+        },
+        "works": {
+            "todo": {
+                "job": "Ce que je fais",
+                "project": "Projet",
+                "stack": "Pile",
+                "link": "Site Web",
+                "about": "À propos du projet",
+                "result": "Résultat"
+            },
+            "projects": {
+                "title": "Mes projets",
+                "category": {
+                    "all": "Tous les projets",
+                    "ecommerce": "E-commerce",
+                    "showcase": "Vitrine",
+                    "fullweb": "Full-Web",
+                    "desktop": "Desktop",
+                    "film": "Film Maker",
+                    "svg": "SVG Animation"
+                },
+                "infos": {
+                    "date": "Date",
+                    "category": "Catégorie",
+                    "client": "Client",
+                    "share": "Partager"
+                },
+                "ao": {
+                    "description": "Mise en place d'une solution digitale : elle permet la gestion du processus de vente B2B/B2C, elle connecte les différentes parties prenantes de ce processus : les commerciaux, les clients (partenaires et clients directs) et les consultants.",
+                    "date": "21 Mai, 2021",
+                    "todo": {
+                        "job": "En tant que CTO Full Stack, j'étais responsable de l'architecture technique du projet, garantissant ainsi ses performances, sa sécurité et sa capacité d'adaptation aux tendances du marché.",
+                        "project": "Solution marketplace tout-en-un en 3 versions linguistiques."
+                    },
+                    "tasks": {
+                        "t1": "Analyse et spécification des besoins à travers un diagramme de cas d'utilisation.",
+                        "t2": "Conception et préparation des documents techniques et fonctionnels (diagramme de classe).",
+                        "t3": "Développement des différents API REST Back end et Consommation des API REST front end.",
+                        "t4": "Réalisation et développement de différentes fonctionnalités.",
+                        "t5": "Notification des différents intervenants du processus (sockets, push, mailing).",
+                        "t6": "Statistiques et reporting en utilisant la bibliothèque APEX CHART.",
+                        "t7": "Rédaction et maintenance de tests d'automatisation à l'aide de JUnit.",
+                        "t8": "Extraction et transformation de données à partir de diverses sources (XML, JSON, texte) et présentation des résultats sur des pages Web ou exportation au format PDF/Excel."
+                    }
+                },
+                "bacola": {
+                    "description": "Exemple de mise en œuvre d'une application de commerce électronique, nous examinerons la version 16 d'Angular.",
+                    "date": "10 Oct, 2022",
+                    "todo": {
+                        "job": "Développement front-end complet d'une solution e-commerce tirant parti des nouvelles fonctionnalités d'Angular 16 telles que la composition de directives, les gardes fonctionnelles, les signaux, etc.",
+                        "project": "Application e-commerce avec Angular 16."
+                    },
+                    "tasks": {
+                        "t1": "Le projet utilise l'architecture NgModule (standalone: false) et produit une interface basée sur un thème WordPress premium.",
+                        "t2": "Utilisation de NgModule avec une architecture MVVM.",
+                        "t3": "Gestion d'état réactive avec NgRx pour la devise et l'emplacement.",
+                        "t4": "100% de composants Angular sont OnPush.",
+                        "t5": "Utilisation de la bibliothèque NgZorroAnt pour styliser les composants."
+                    }
+                },
+                "cm2": {
+                    "description": "Gérer une entreprise, une association ou un magasin n'est pas chose aisée sans les bons outils, et Comture.MSO 2 peut vous y aider. Ce logiciel de gestion commerciale et de comptabilité vous permet de gérer vos fournisseurs, vos clients, vos stocks et bien plus encore.",
+                    "date": "04 Mars, 2018",
+                    "todo": {
+                        "job": "Conception, développement et commercialisation d'une application de bureau multi-utilisateurs pour la gestion commerciale, spécialement conçue pour les auto-entrepreneurs ou les micro-entreprises, assujetties ou non à la TVA.",
+                        "project": "Système de facturation pour auto-entrepreneur et TPE/PME."
+                    },
+                    "tasks": {
+                        "t1": "Gestion des clients, achats, devis et factures.",
+                        "t2": "Calcul des cotisations sociales et fiscales d'une micro-entreprise, ou aide à la déclaration de TVA, selon le type de l'entreprise.",
+                        "t3": "Etats statistiques (mensuels, trimestriels, annuels).",
+                        "t4": "Comptabilité simplifiée automatique (registre des achats et livre des recettes).",
+                        "t5": "Facturation dans les principales devises étrangères.",
+                        "t6": "Export de données (Excel, CSV ou JSON).",
+                        "t7": "Support technique intégré par email."
+                    }
+                },
+                "gostore": {
+                    "description": "Il s'agit d'une application de commerce électronique conçue avec Angular 17, NodeJS et MySQL.",
+                    "date": "12 Avr, 2023",
+                    "todo": {
+                        "job": "Développement full-stack d'une application e-commerce : nous examinons les nouvelles fonctionnalités d'Angular 17 telles que les signal inputs, le chargement différé des modèles avec Defer, les flux de contrôle et les transitions de vue.",
+                        "project": "Site web e-commerce avec Angular 17."
+                    },
+                    "tasks": {
+                        "t1": "Inspection de nouveauté d'Angular : Standalone, Signal, Defer, Flux de contrôle, etc.",
+                        "t2": "Stratégie sélective basée sur les données de route (préchargement des catégories populaires).",
+                        "t3": "Utilisation de la librairie de state management NgRx.",
+                        "t4": "Stylisation des composants avec la bibliothèque NgZorroAnt.",
+                        "t5": "Implémentation de tests Front avec Jasmine."
+                    }
+                },
+                "migros": {
+                    "description": "Le projet de transformation de Migros, la plus grande chaîne de supermarchés de détail de Turquie, vise à repenser tous les outils internes en utilisant des technologies de pointe, à établir des pratiques d'assurance qualité CI/CD et à former tous les départements à l'infrastructure améliorée.",
+                    "date": "07 Juil, 2023",
+                    "feel": "Participation Front-end",
+                    "todo": {
+                        "job": "Je travaille comme architecte front-end dans ce processus de transformation avec une équipe composée de 2 développeurs back-end (Java Spring), 1 ingénieur DevOps (Azure DevOps), 1 ingénieur QA, 1 autre développeur front-end et 1 concepteur UI/UX.",
+                        "project": "Site e-commerce alimentaire pour les magasins Migros en Turquie."
+                    },
+                    "tasks": {
+                        "t1": "Participer à tous les processus décisionnels qui incluent la conception de la base de données, l'outillage, les processus de déploiement, etc.",
+                        "t2": "Utiliser le modèle monorepo car il présente des avantages de réutilisabilité et de gestion des dépendances en utilisant l'outil monorepo Nrwl Nx.",
+                        "t3": "Transformer toutes les applications existantes une par une, et transférer le projet aux équipes désignées.",
+                        "t4": "Écriture de tests avec Jest et Cypress.",
+                        "t5": "Mise en place de processus CI/CD sur Azure DevOps avec l'ingénieur DevOps."
+                    }
+                },
+                "polaris": {
+                    "description": "Polaris est un système de gestion des réclamations du travail sur la logique d'assurance, développé en utilisant Java pour le back-end et SQL pour la base de données. Ce portail permet d'évaluer, de coder, d'élaborer des polices et de les approuver.",
+                    "date": "02 Fev, 2022",
+                    "todo": {
+                        "job": "Travailler comme développeur backend au sein d'une équipe composée d'un architecte fullstack, d'un testeur QA, d'un développeur frontend et d'un développeur backend.",
+                        "project": "Portail d'assurance pour les propriétaires de Motorcycle Polaris, destiné aux professionnels et aux particuliers."
+                    },
+                    "tasks": {
+                        "t1": "Authentification JWT et Gestion des utilisateurs.",
+                        "t2": "Extraction de formulaires actifs à partir de la base de données et des rapports générés.",
+                        "t3": "Génération du rapport de référence de propriété, du rapport de politique liée, du rapport de producteur lié et du rapport de contact de producteur.",
+                        "t4": "Travailler dans l'écran Devis de politique comme la tarification, les frais, la commission, la pré-liaison, le plan de paiement et la logique de liaison complète.",
+                        "t5": "Travailler dans les avenants de police pour les couvertures."
+                    }
+                },
+                "orup": {
+                    "description": "Site web vitrine pour présenter une société de courtage en assurances et services financiers à Drancy - Paris.",
+                    "date": "30 Nov, 2019",
+                    "todo": {
+                        "job": "Développement et conception sur mesure du site web. Recherche, collecte et adaptation de contenu. Mise en œuvre et suivi de la solution. Optimisation pour les moteurs de recherche (SEO).",
+                        "project": "Un site web vitrine sur mesure, performant, rapide et optimisé pour les moteurs de recherche."
+                    },
+                    "tasks": {
+                        "t1": "Services de branding",
+                        "t2": "Conception de logo",
+                        "t3": "Conception d'identité",
+                        "t4": "Conception de sites web"
+                    },
+                    "showcases": {
+                        "titles": {
+                            "t1": "Design unique",
+                            "t2": "Architecture responsive",
+                            "t3": "Référencement naturel"
+                        },
+                        "parags": {
+                            "p1": "Site esthétique adapté au public cible, aux activités et aux contraintes de l'entreprise.",
+                            "p2": "Mise en œuvre des maquettes graphiques créées selon une stratégie axée sur le mobile.",
+                            "p3": "Mise en place de stratégies SEO pour améliorer la visibilité du site dans les moteurs de recherche."
+                        }
+                    }
+                },
+                "rinitec": {
+                    "description": "Site web technique d'un prestataire de services informatiques pour entreprises - Sidi Bel Abbès.",
+                    "date": "13 Sep, 2019",
+                    "todo": {
+                        "job": "Analyse des besoins et rédaction du cahier des charges. Rédaction des spécifications fonctionnelles et des choix techniques. Accompagnement continu lors du développement et de la formation des collaborateurs.",
+                        "project": "Site web technique de haute qualité, design performant, solution flexible et sécurisée, optimisée pour les moteurs de recherche."
+                    },
+                    "tasks": {
+                        "t1": "Stratégie numérique",
+                        "t2": "Conception graphique",
+                        "t3": "Développement web",
+                        "t4": "Marketing interactif"
+                    },
+                    "showcases": {
+                        "titles": {
+                            "t1": "Audit adapté",
+                            "t2": "Prise en charge complète",
+                            "t3": "Créativité et recherche"
+                        },
+                        "parags": {
+                            "p1": "Un audit qui évalue les besoins réels de l'activité ainsi que ses ressources techniques et financières.",
+                            "p2": "Conçoit, développe et met en œuvre la solution, de la phase d'étude à son intégration.",
+                            "p3": "Gestion du suivi garantit que la solution évolue en fonction des avancées techniques et des besoins de l'entreprise."
+                        }
+                    }
+                },
+                "switcher": {
+                    "description": "Site web de commerce électronique réalisé avec Shopify Winter Edition 24. Ce projet a été développé pour une entreprise textile leader en Suisse.",
+                    "date": "05 Jav, 2024",
+                    "todo": "En collaboration avec un développeur full-stack, j'ai participé à la création et à l'optimisation de la boutique sur la plateforme Shopify. J'étais responsable du déploiement, de la personnalisation et de la maintenance via le CMS et les API Shopify."
+                },
+                "fmao": {
+                    "description": "Vidéos promotionnelles qui permettent de commercialiser, faire la publicité et promouvoir une plateforme de vente en ligne afin de capter l'attention et d'inciter à l'action.",
+                    "date": "24 Avr, 2021"
+                },
+                "fmrinitec": {
+                    "description": "Vidéos promotionnelles permettant de présenter une agence de services informatiques aux entreprises.",
+                    "date": "10 Oct, 2019"
+                },
+                "asvg": {
+                    "description": "Animations SVG permettent de créer des graphismes dynamiques et attrayants au sein de l'interface du logiciel Macromiss. Ces animations modifient les propriétés des formes SVG au fil du temps. L'exemple illustre les animations utilisées dans la gestion de l'authentification.",
+                    "date": "02 Aou, 2023",
+                    "help": "💡Cliquez sur l'image pour réanimer le SVG !"
+                }
+            }
+        }
+    },
+    "app": {
+        "btn": {
+            "work": "travaillons",
+            "more": "plus",
+            "all": "tous",
+            "prev": "projet précédent",
+            "next": "projet suivant"
+        }
+    }
+}

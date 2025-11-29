@@ -1,0 +1,408 @@
+{
+    "metas": {
+        "title": {
+            "home": "Reda Bensaad - CV/Portfolio/Personal",
+            "about": "About - Reda Bensaad",
+            "works": "Portfolio - Reda Bensaad",
+            "contact": "Contact - Reda Bensaad",
+            "p404": "Page not found - Reda CV",
+            "projects": {
+                "ao": "Algerie Office - Portfolio Reda Bensaad",
+                "bacola": "Bacola Shopping Centre - Portfolio Reda Bensaad",
+                "cm2": "Comture.MSO 2 - Portfolio Reda Bensaad",
+                "gostore": "GoStore Electronics - Portfolio Reda Bensaad",
+                "orup": "Orup Insurances - Portfolio Reda Bensaad",
+                "rinitec": "Rinitec SSII - Portfolio Reda Bensaad",
+                "fmao": "Algerie Office Film Maker - Portfolio Reda Bensaad",
+                "fmrinitec": "Rinitec SSII Film Maker - Portfolio Reda Bensaad",
+                "migros": "Migros Transformation - Portfolio Reda Bensaad",
+                "polaris": "Polaris System - Portfolio Reda Bensaad",
+                "switcher": "Switcher - Portfolio Reda Bensaad",
+                "asvg": "Macromiss SVG Animation - Portfolio Reda Bensaad"
+            }
+        },
+        "description": {
+            "home": "Full-stack developer with expertise in Java. A proponent of agile methodologies and clean code, I am interested in complex and challenging topics.",
+            "about": "Over 10 years of practical experience in software design, development, testing, maintenance and debugging.",
+            "works": "A results-oriented, customer-centric, articulate, and analytical software developer.",
+            "contact": "Available for freelance assignments. Please fill out the attached contact form; you will be contacted by email within 24 hours.",
+            "p404": "Perhaps you would like to access our homepage?",
+            "projects": {
+                "ao": "An all-in-one marketplace solution in 3 language versions, May 2021.",
+                "bacola": "Example of the implementation of an e-commerce application, we will examine version 16 of Angular, Oct 2022.",
+                "cm2": "Billing system for self-employed individuals and TPE/PME, March 2018.",
+                "gostore": "Example of an e-commerce application designed with Angular 17, NodeJS and MySQL, Apr 2023.",
+                "orup": "Website custom-designed for an insurance and financial services brokerage firm, Nov 2019.",
+                "rinitec": "A custom-designed technical website for a business IT services agency, Sep 2019.",
+                "fmao": "Promotional videos used to market, advertise and promote an online sales platform, Apr 2021.",
+                "fmrinitec": "Promotional videos used to present an IT services agency to businesses, Oct 2019.",
+                "migros": "E-commerce website for Migros stores in Türkiye, July 2023.",
+                "polaris": "Insurance portal for Polaris motorcycle riders, intended for professionals and individuals, Feb 2022.",
+                "switcher": "E-commerce website for textiles from the company Switcher in Switzerland, Jan 2024.",
+                "asvg": "SVG animations for the Macromiss account used in the software interface to create dynamic and attractive graphics, Aug 2023."
+            }
+        }
+    },
+    "component": {
+        "layout": {
+            "drawer": {
+                "menu": {
+                    "home": "welcome",
+                    "about": "about",
+                    "works": "works",
+                    "contact": "contact"
+                },
+                "contacts": {
+                    "email": "Email:",
+                    "phone": "Phone:"
+                }
+            },
+            "footer": {
+                "title": "Multi-skilled, passionate about IT and new technologies since forever.",
+                "copyright": "© 2025. Designed with ❤️ by Angular 20.",
+                "notices": {
+                    "n1": "“ Reda brought real added value with a clear, efficient, and maintainable architecture. His role was crucial to the project's success. ”",
+                    "n2": "“ Reda customized the website to meet the client's needs and ensured optimized maintenance. His intervention guarantees stability and scalability. ”",
+                    "n3": "“ Reda distinguished himself through his effective collaboration and a secure, clear, and maintainable backend. His work was essential to the project's success. ”"
+                }
+            }
+        },
+        "home": {
+            "welcome": "Full Stack Java, Spring Boot, Angular Developer",
+            "stacks": {
+                "title": "Good understanding of the software development lifecycle and agile methodologies 🔥",
+                "technos": {
+                    "skills": "Language skills",
+                    "bdd": "Database",
+                    "scripts": "Screenplays (Scripts)",
+                    "website": "Website design",
+                    "tools": "Third-party tools",
+                    "general": "General skills"
+                },
+                "general": {
+                    "strong": "Strong communication skills to collaborate with stack holders.",
+                    "deliver": "Skills in time management to deliver the task on time and with high quality."
+                }
+            },
+            "qualities": {
+                "titles": {
+                    "software": "Specific software",
+                    "website": "Custom website",
+                    "uxui": "UX/UI designers",
+                    "marketing": "Web marketing"
+                },
+                "descriptions": {
+                    "software": "Because intuitive functionality enables a meaningful experience.",
+                    "website": "To create emotion, every detail counts.",
+                    "uxui": "Because a great brand is a foundation of every experience.",
+                    "marketing": "For stories that are told and shared."
+                }
+            }
+        },
+        "about": {
+            "bio": {
+                "title": "I am Reda Bensaad ✌️ Freelance Developer.",
+                "parag": {
+                    "short": {
+                        "text1": "Full-stack developer with expertise in Java. A proponent of agile methodologies and clean code, I am interested in",
+                        "text2": "complex and challenging topics,",
+                        "text3": "and I offer effective strategies and personalized advice tailored to the needs of the business.",
+                        "text4": "Over 10 years of practical experience in software design, development, testing, maintenance and debugging."
+                    },
+                    "long": {
+                        "text1": "Interested in computer science, more specifically in programming, I had the opportunity, after obtaining my computer engineering degree, to work on several interesting projects, some of these projects were",
+                        "text2": "managed remotely",
+                        "text3": "without the constraints of",
+                        "text4": "offshore development",
+                        "text5": "affecting the smooth running of the work.",
+                        "text6": "Software architect, technical lead, software development, software design, database design, business logic design, software engineering."
+                    }
+                },
+                "link": {
+                    "short": "short bio",
+                    "long": "long bio"
+                }
+            },
+            "skills": {
+                "spring": "Proficiency in the Java EE platform with a solid set of technical skills that includes expertise in Java (8/11/17).",
+                "angular": "Good knowledge and experience of the Angular framework and microservices architecture.",
+                "postgre": "Understanding of how ORACLE, SQL and Elasticsearch databases work.",
+                "azure": "I have worked with Azure, AWS and Docker for deployment and management."
+            },
+            "forums": {
+                "training": "Studies and training",
+                "diploma": "State-certified computer engineer",
+                "facs": {
+                    "t1": "Faculty of Engineering Sciences, Institute of Computer Science",
+                    "t2": "Djillali Liabès University of Sidi Bel-Abbès",
+                    "t3": "2001 - 2006"
+                }
+            }
+        },
+        "works": {
+            "connect": {
+                "header1": "Do you have a project?",
+                "header2": "Send me a message and let's connect 👋"
+            }
+        },
+        "contact": {
+            "messager": {
+                "title": "For any questions or simply to say hello, feel free to contact me 👋",
+                "infos": {
+                    "contact": "Contact info:",
+                    "address": "Address:",
+                    "hours": "Hours of Operation:",
+                    "email": "Email:",
+                    "phone": "Phone:",
+                    "days": "Sunday - Thursday"
+                },
+                "form": {
+                    "name": "Your Name",
+                    "email": "Your Email",
+                    "phone": "Your Phone",
+                    "company": "Company",
+                    "type": "I am interested in...",
+                    "budget": "Budget",
+                    "title": "Title",
+                    "message": "Message",
+                    "submit": "Submit"
+                },
+                "type": {
+                    "software": "Software development",
+                    "website": "Website creation",
+                    "uxui": "UX/UI design",
+                    "marketing": "Web marketing tips"
+                },
+                "budget": {
+                    "100": "$0 - $100",
+                    "1000": "$100 - $1000",
+                    "5000": "$1000 - $5000"
+                },
+                "errors": {
+                    "required": "must be completed",
+                    "length": "must contain at least {{ length }} characters",
+                    "invalid": "is invalid!"
+                },
+                "messages": {
+                    "success": {
+                        "summary": "Message sent successfully!",
+                        "detail": "Thank you for your message. It has been sent."
+                    },
+                    "error": {
+                        "summary": "Oops, unable to send!",
+                        "detail": "Sorry, an unexpected error has occurred. Please try again in a few moments."
+                    }
+                }
+            }
+        }
+    },
+    "pages": {
+        "p404": {
+            "title": "Page not found 😿",
+            "message": "Perhaps you would like to access my homepage?",
+            "link": "Go to home"
+        },
+        "works": {
+            "todo": {
+                "job": "What I do",
+                "project": "Project",
+                "stack": "Stack",
+                "link": "Website",
+                "about": "About project",
+                "result": "Result"
+            },
+            "projects": {
+                "title": "My projects",
+                "category": {
+                    "all": "All projects",
+                    "ecommerce": "E-commerce",
+                    "showcase": "Showcase",
+                    "fullweb": "Full-Web",
+                    "desktop": "Desktop",
+                    "film": "Film Maker",
+                    "svg": "SVG Animation"
+                },
+                "infos": {
+                    "date": "Date",
+                    "category": "Category",
+                    "client": "Client",
+                    "share": "Share"
+                },
+                "ao": {
+                    "description": "Implementation of a digital solution: it enables the management of the B2B/B2C sales process, it connects the different stakeholders in this process: sales representatives, customers (partners and direct customers) and consultants.",
+                    "date": "May 21, 2021",
+                    "todo": {
+                        "job": "As Full Stack CTO, I was responsible for the technical architecture of the project, ensuring its performance, security and ability to adapt to market trends.",
+                        "project": "All-in-one marketplace solution in 3 language versions."
+                    },
+                    "tasks": {
+                        "t1": "Analysis and specification of requirements through a use case diagram.",
+                        "t2": "Design and preparation of technical and functional documents (class diagram).",
+                        "t3": "Development of various REST APIs Back end and Consumption of REST APIs front end.",
+                        "t4": "Implementation and development of various functionalities.",
+                        "t5": "Notification of the various stakeholders in the process (sockets, push, mailing).",
+                        "t6": "Statistics and reporting using the APEX CHART library.",
+                        "t7": "Writing and maintaining automation tests using JUnit.",
+                        "t8": "Extraction and transformation of data from various sources (XML, JSON, text) and presentation of results on web pages or export to PDF/Excel format."
+                    }
+                },
+                "bacola": {
+                    "description": "As an example of implementing an e-commerce application, we will examine version 16 of Angular.",
+                    "date": "Oct 10, 2022",
+                    "todo": {
+                        "job": "Complete front-end development of an e-commerce solution leveraging new features of Angular 16 such as directive composition, functional guards, signals, etc.",
+                        "project": "E-commerce application with Angular 16."
+                    },
+                    "tasks": {
+                        "t1": "The project uses the NgModule architecture (standalone: false) and produces an interface based on a premium WordPress theme.",
+                        "t2": "Using NgModule with an MVVM architecture.",
+                        "t3": "Reactive state management with NgRx for currency and location.",
+                        "t4": "100% of Angular components are OnPush.",
+                        "t5": "Using the NgZorroAnt library to style the components."
+                    }
+                },
+                "cm2": {
+                    "description": "Managing a business, association, or store isn't easy without the right tools, and Comture.MSO 2 can help. This business management and accounting software lets you manage your suppliers, customers, inventory, and much more.",
+                    "date": "March 4, 2018",
+                    "todo": {
+                        "job": "Design, development and marketing of a multi-user desktop application for business management, specially designed for self-employed individuals or micro-enterprises, whether or not subject to VAT.",
+                        "project": "Billing system for self-employed individuals and TPE/PME."
+                    },
+                    "tasks": {
+                        "t1": "Customer management, purchasing, quotes and invoices.",
+                        "t2": "Calculation of social security and tax contributions for a micro-enterprise, or assistance with VAT returns, depending on the type of company.",
+                        "t3": "Statistical reports (monthly, quarterly, annual).",
+                        "t4": "Simplified automatic accounting (purchase register and sales book).",
+                        "t5": "Billing in major foreign currencies.",
+                        "t6": "Data export (Excel, CSV or JSON).",
+                        "t7": "Integrated technical support via email."
+                    }
+                },
+                "gostore": {
+                    "description": "This is an e-commerce application built with Angular 17, NodeJS and MySQL.",
+                    "date": "April 12, 2023",
+                    "todo": {
+                        "job": "Full-stack development of an e-commerce application: we examine the new features of Angular 17 such as signal inputs, deferred model loading with Defer, control flows and view transitions.",
+                        "project": "E-commerce website with Angular 17."
+                    },
+                    "tasks": {
+                        "t1": "Angular novelty inspection: Standalone, Signal, Defer, Control Flow, etc.",
+                        "t2": "Selective strategy based on route data (preloading of popular categories).",
+                        "t3": "Using the NgRx state management library.",
+                        "t4": "Styling components with the NgZorroAnt library.",
+                        "t5": "Implementing front-end tests with Jasmine."
+                    }
+                },
+                "migros": {
+                    "description": "The transformation project at Migros, Turkey's largest retail supermarket chain, aims to rethink all internal tools using cutting-edge technologies, establish CI/CD quality assurance practices, and train all departments on the improved infrastructure.",
+                    "date": "July 7, 2023",
+                    "feel": "Front-end participation",
+                    "todo": {
+                        "job": "I work as a front-end architect in this transformation process with a team consisting of 2 back-end developers (Java Spring), 1 DevOps engineer (Azure DevOps), 1 QA engineer, 1 other front-end developer and 1 UI/UX designer.",
+                        "project": "E-commerce website for Migros stores in Türkiye."
+                    },
+                    "tasks": {
+                        "t1": "Participate in all decision-making processes which include database design, tooling, deployment processes, etc.",
+                        "t2": "Use the monorepo model because it offers advantages in reusability and dependency management using the Nrwl Nx monorepo tool.",
+                        "t3": "Transform all existing applications one by one, and transfer the project to the designated teams.",
+                        "t4": "Writing tests with Jest and Cypress.",
+                        "t5": "Implementation of CI/CD processes on Azure DevOps with the DevOps engineer."
+                    }
+                },
+                "polaris": {
+                    "description": "Polaris is a workers' compensation claims management system based on insurance logic, developed using Java for the back end and SQL for the database. This portal allows for the evaluation, coding, creation, and approval of policies.",
+                    "date": "Feb 2, 2022",
+                    "todo": {
+                        "job": "Work as a backend developer within a team consisting of a fullstack architect, a QA tester, a frontend developer and a backend developer.",
+                        "project": "Insurance portal for Polaris Motorcycle owners, intended for professionals and individuals."
+                    },
+                    "tasks": {
+                        "t1": "JWT Authentication and User Management.",
+                        "t2": "Extracting active forms from the database and generated reports.",
+                        "t3": "Generation of the property reference report, the related policy report, the related producer report and the producer contact report.",
+                        "t4": "Working within the Policy Quote screen includes pricing, fees, commission, pre-binding, payment plan, and complete binding logic.",
+                        "t5": "Working on policy endorsements for coverage."
+                    }
+                },
+                "orup": {
+                    "description": "Showcase website to present an insurance and financial services brokerage company in Drancy - Paris.",
+                    "date": "Nov 30, 2019",
+                    "todo": {
+                        "job": "Custom website development and design. Content research, collection, and adaptation. Implementation and monitoring of the solution. Search engine optimization (SEO).",
+                        "project": "A custom-designed, high-performing, fast, and search engine optimized showcase website."
+                    },
+                    "tasks": {
+                        "t1": "Branding services",
+                        "t2": "Logo design",
+                        "t3": "Identity design",
+                        "t4": "Website design"
+                    },
+                    "showcases": {
+                        "titles": {
+                            "t1": "Unique design",
+                            "t2": "Responsive architecture",
+                            "t3": "Search engine optimization"
+                        },
+                        "parags": {
+                            "p1": "An aesthetically pleasing website adapted to the target audience, the company's activities and constraints.",
+                            "p2": "Implementation of graphic mock-ups created according to a mobile-focused strategy.",
+                            "p3": "Implementation of SEO strategies to improve the site's visibility in search engines."
+                        }
+                    }
+                },
+                "rinitec": {
+                    "description": "Technical website of an IT service provider for businesses - Sidi Bel Abbès.",
+                    "date": "Sep 13, 2019",
+                    "todo": {
+                        "job": "Needs analysis and drafting of specifications. Drafting of functional specifications and technical choices. Ongoing support during development and employee training.",
+                        "project": "High-quality technical website, high-performance design, flexible and secure solution, optimized for search engines."
+                    },
+                    "tasks": {
+                        "t1": "Digital strategy",
+                        "t2": "Graphic design",
+                        "t3": "Web development",
+                        "t4": "Interactive Marketing"
+                    },
+                    "showcases": {
+                        "titles": {
+                            "t1": "Tailored audit",
+                            "t2": "Comprehensive care",
+                            "t3": "Creativity and research"
+                        },
+                        "parags": {
+                            "p1": "An audit that assesses the actual needs of the activity as well as its technical and financial resources.",
+                            "p2": "Designs, develops and implements the solution, from the study phase to its integration.",
+                            "p3": "Monitoring management ensures that the solution evolves in line with technical advances and business needs."
+                        }
+                    }
+                },"switcher": {
+                    "description": "E-commerce website created with Shopify Winter Edition 24. This project was developed for a leading textile company in Switzerland.",
+                    "date": "Jan 5, 2024",
+                    "todo": "In collaboration with a full-stack developer, I participated in the creation and optimization of the store on the Shopify platform. I was responsible for deployment, customization, and maintenance via the Shopify CMS and APIs."
+                },
+                "fmao": {
+                    "description": "Promotional videos that allow you to market, advertise and promote an online sales platform in order to capture attention and encourage action.",
+                    "date": "Apr 24, 2021"
+                },
+                "fmrinitec": {
+                    "description": "Promotional videos to showcase an IT services agency to businesses.",
+                    "date": "Oct 10, 2019"
+                },
+                "asvg": {
+                    "description": "SVG animations allow you to create dynamic and engaging graphics within the Macromiss software interface. These animations modify the properties of SVG shapes over time. The example illustrates the animations used in authentication management.",
+                    "date": "Aug 2, 2023",
+                    "help": "💡Click on the image to reanimate the SVG!"
+                }
+            }
+        }
+    },
+    "app": {
+        "btn": {
+            "work": "let's work",
+            "more": "more",
+            "all": "all",
+            "prev": "prev project",
+            "next": "next project"
+        }
+    }
+}
